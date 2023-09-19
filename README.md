@@ -11,7 +11,7 @@
 - [Just](https://github.com/casey/just/releases/tag/1.14.0)
   - Manually add executable to path
   
-- Add git bash's bin/ directory to path
+- Windows: Add git bash's bin/ directory to path
 
 ## To replace eterm
 
